@@ -3,6 +3,11 @@ ipykernel
 python-dotenv
 faiss-cpu
 langchain
+langchain-groq
 langchain-core
 langchain-openai
 langchain-community
+pypdf
+arxiv
+pymupdf
+wikipedia
