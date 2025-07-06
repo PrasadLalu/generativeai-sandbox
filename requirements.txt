@@ -11,3 +11,4 @@ pypdf
 arxiv
 pymupdf
 wikipedia
+transformers
