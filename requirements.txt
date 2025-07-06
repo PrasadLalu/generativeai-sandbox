@@ -12,3 +12,5 @@ arxiv
 pymupdf
 wikipedia
 transformers
+langchain_huggingface
+sentence-transformers
